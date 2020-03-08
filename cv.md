@@ -18,8 +18,9 @@ I want to become an iOS dev.
 </ul>
 
 <h2>Code examples</h2>
-
-
+func multiply(_ a: Double, _ b: Double) -> Double {
+   return a * b
+}
 
 <h2>Experience</h2>
 Learning SWIFT,CoreData and etc. independently, using video, documentation (such as https://www.raywenderlich.com, Udemy.com, codewars.com)

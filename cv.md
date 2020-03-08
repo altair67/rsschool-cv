@@ -1,6 +1,8 @@
 <h1> Daniil Belokurski </h1>
 <ul>
   <li>Email: danik-smartt@yandex.ru</li>
+  <li>Phone: +375 (29) 305-66-46</li>
+  <li>Telegram: @Altair67</li>
 </ul>
 
 <h2>Goal</h2>
